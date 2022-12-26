@@ -22,3 +22,7 @@
 - [x] title:String, detail:String, dateCreated:Date(default now) özelliklerine sahip Post modelini oluşturalım.
 - [x] Veri tabanımızda 3 adet pos dökümanı oluşturalım.
 - [x] Oluşturduğumuz post dökümanlarını Blog sitemizin anasayfasında gösterelim.
+- [x] index.ejs içerisinde /posts/<%= posts[i]._id %> ile _id bilgisini gönderelim.
+- [x] app.js içerisinde GET metoduyla "/posts/:id" ile gönderilen "_id" yi yakalayalım.
+- [x] tekil post bilgilerini post.ejs dosyasına gönderelim.
+- [x] post.ejs içerisine post.title, post.detail ve post.dateCreated bilgilerini gönderelim. (her bir post için ayrı image kullanmayacağız)
