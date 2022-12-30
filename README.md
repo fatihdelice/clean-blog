@@ -2,6 +2,7 @@
 
 ## Used Technologies
 
+- Node.js
 - Express
 - Ejs
 - Method Override
