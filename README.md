@@ -1,5 +1,11 @@
 # Clean Blog Node.js Project
 
+## Used Technologies
+
+- Express
+- Ejs
+- Method Override
+- Mongoose
 
 ## ToDo:
 
@@ -30,3 +36,4 @@
 - [x] Herhangi bir post verisini güncellemek için gerekli çalışmaları yapalım.
 - [x] Herhangi bir post verisini silmek için gerekli çalışmaları yapalım.
 - [x] Kodumuzu MVC yapısına göre tekrar düzenleyelim.
+
